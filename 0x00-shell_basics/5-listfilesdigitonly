@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lagGi
+ls -laR | awk '{print $1,$5,$9}' | egrep  -v ' \.*$'
