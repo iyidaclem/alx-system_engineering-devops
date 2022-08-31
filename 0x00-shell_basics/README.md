@@ -14,3 +14,9 @@ This is a script that list all the files in a curreint directory in a long forma
 
 ## [4-listmorefiles](4-listmorefiles)
 This is used to list hidden files in a long format
+
+[5-listfilesdigitonly](5-listfilesdigitonly)
+This script is used for used for listing file in current working directoryin :
+->Long format
+->with user and group IDs displayed numerically
+->And hidden files (starting with .)
