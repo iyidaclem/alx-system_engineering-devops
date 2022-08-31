@@ -48,3 +48,6 @@ Script for printing file type
 
 ## [13-symbolic_link](13-symbolic_link)
 script for creating symbolic link
+
+## [14-copy_html](14-copy_html)
+Script for moving all html into parent of the working directory
