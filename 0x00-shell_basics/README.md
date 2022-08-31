@@ -36,3 +36,6 @@ Script for delete file 'betty' from /tmp/my_first_directory
 
 ## [9-firstdirdeletion](9-firstdirdeletion)
 Script for deleting /tmp/my_first_directory
+
+## [10-back](10-back)
+Script for moving to to previous directory
