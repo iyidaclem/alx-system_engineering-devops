@@ -30,3 +30,6 @@ This script is used to create a directory called my_directory inside /tmp
 
 ## [7-movethatfile](7-movethatfile)
 This script moves file betty from /tmp to /tmp/my_first_directory
+
+## [8-firstdelete](8-firstdelete)
+Script for delete file 'betty' from /tmp/my_first_directory
