@@ -54,3 +54,6 @@ Script for moving all html into parent of the working directory
 
 ## [100-lets_move](100-lets_move)
 Script for moving all the file that start with capital letter
+
+##[101-clean_emacs](101-clean_emacs)
+Delete all the files ending with ~
