@@ -8,3 +8,6 @@ This script will print the current working directory where it is been run
 
 ## [2-bring_me_home](2-bring_me_home)
 2-bring_me_home is script that changes working directory to users home
+
+## [3-listfiles](3-listfiles)
+This is a script that list all the files in a curreint directory in a long format
