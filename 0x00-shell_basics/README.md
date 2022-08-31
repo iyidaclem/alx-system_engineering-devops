@@ -27,3 +27,6 @@ This script is used for used for listing file in current working directoryin :
 
 ## [6-firstdirectory](6-firstdirectory)
 This script is used to create a directory called my_directory inside /tmp
+
+## [7-movethatfile](7-movethatfile)
+This script moves file betty from /tmp to /tmp/my_first_directory
