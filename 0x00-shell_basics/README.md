@@ -11,3 +11,6 @@ This script will print the current working directory where it is been run
 
 ## [3-listfiles](3-listfiles)
 This is a script that list all the files in a curreint directory in a long format
+
+## [4-listmorefiles](4-listmorefiles)
+This is used to list hidden files in a long format
