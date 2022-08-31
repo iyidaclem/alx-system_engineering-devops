@@ -33,3 +33,6 @@ This script moves file betty from /tmp to /tmp/my_first_directory
 
 ## [8-firstdelete](8-firstdelete)
 Script for delete file 'betty' from /tmp/my_first_directory
+
+## [9-firstdirdeletion](9-firstdirdeletion)
+Script for deleting /tmp/my_first_directory
