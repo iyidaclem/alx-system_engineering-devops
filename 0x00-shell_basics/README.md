@@ -39,3 +39,6 @@ Script for deleting /tmp/my_first_directory
 
 ## [10-back](10-back)
 Script for moving to to previous directory
+
+## [11-lists](11-lists)
+Script for listing content of more than one directory
