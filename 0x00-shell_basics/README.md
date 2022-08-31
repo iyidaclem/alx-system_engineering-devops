@@ -45,3 +45,6 @@ Script for listing content of more than one directory
 
 ## [12-file_type] (12-file_type)
 Script for printing file type
+
+## [13-symbolic_link](13-symbolic_link)
+script for creating symbolic link
