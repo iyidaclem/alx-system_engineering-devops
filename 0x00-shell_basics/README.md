@@ -24,3 +24,6 @@ This script is used for used for listing file in current working directoryin :
 ->with user and group IDs displayed numerically
 
 ->And hidden files (starting with .)
+
+## [6-firstdirectory](6-firstdirectory)
+This script is used to create a directory called my_directory inside /tmp
