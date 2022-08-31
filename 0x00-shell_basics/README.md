@@ -17,6 +17,10 @@ This is used to list hidden files in a long format
 
 ## [5-listfilesdigitonly](5-listfilesdigitonly)
 This script is used for used for listing file in current working directoryin :
+
+
 ->Long format
+
 ->with user and group IDs displayed numerically
+
 ->And hidden files (starting with .)
