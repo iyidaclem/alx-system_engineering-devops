@@ -42,3 +42,6 @@ Script for moving to to previous directory
 
 ## [11-lists](11-lists)
 Script for listing content of more than one directory
+
+## [12-file_type] (12-file_type)
+Script for printing file type
