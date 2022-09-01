@@ -40,3 +40,6 @@ adds execute permission to all subdirectorys of current director
 
 ## [12-directory_permissions](12-directory_permissions)
 Create directory with permissions
+
+## [13-change_group](13-change_group)
+Script for changing the group ownership of a file
