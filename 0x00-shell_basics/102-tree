@@ -1,2 +1,2 @@
 #!/bin/bash
-./mktree
+mkdir -p welcome/to/school
