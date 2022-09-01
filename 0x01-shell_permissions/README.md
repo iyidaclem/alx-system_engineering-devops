@@ -24,3 +24,6 @@ This script is used to give multiple permission to owner, group owner and users
 
 ## [7-everybody](7-everybody)
 This script is used to give execution permission to everybody
+
+## [8-James_Bond](8-James_Bond)
+remove all permissions from owner and group owners and grants users all permissions
