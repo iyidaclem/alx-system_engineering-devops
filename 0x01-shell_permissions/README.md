@@ -21,3 +21,6 @@ This is used to add execute write to the user for hello fle
 
 ## [6-multiple_permissions)(6-multiple_permissions)
 This script is used to give multiple permission to owner, group owner and users
+
+## [7-everybody](7-everybody)
+This script is used to give execution permission to everybody
