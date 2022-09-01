@@ -33,3 +33,7 @@ Sets permission -rwxr-x-wx to hello file
 
 ## [10-mirror_permissions](10-mirror_permissions)
 copy file permission to other file
+
+## [11-directories_permissions](11-directories_permissions)
+
+adds execute permission to all subdirectorys of current director
