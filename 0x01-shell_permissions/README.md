@@ -15,3 +15,6 @@ This script is used to change the ownership of a file
 
 ## [4-empty](4-empty)
 Script for creating empty file hello
+
+## [5-execute](5-execute)
+This is used to add execute write to the user for hello fle
