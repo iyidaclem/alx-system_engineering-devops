@@ -55,10 +55,11 @@ Script for moving all html into parent of the working directory
 ## [100-lets_move](100-lets_move)
 Script for moving all the file that start with capital letter
 
-##[101-clean_emacs](101-clean_emacs)
+## [101-clean_emacs](101-clean_emacs)
 Delete all the files ending with ~
 
 ## [102-tree](102-tree)
 Script to create tree of director welcome/to/school
 
-##
+## [103-commas](103-commas)
+ls comma separated list of files
