@@ -18,3 +18,6 @@ Script for creating empty file hello
 
 ## [5-execute](5-execute)
 This is used to add execute write to the user for hello fle
+
+## [6-multiple_permissions)(6-multiple_permissions)
+This script is used to give multiple permission to owner, group owner and users
