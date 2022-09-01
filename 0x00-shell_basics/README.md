@@ -57,3 +57,6 @@ Script for moving all the file that start with capital letter
 
 ##[101-clean_emacs](101-clean_emacs)
 Delete all the files ending with ~
+
+## [102-tree](102-tree)
+Script to create tree of director welcome/to/school
