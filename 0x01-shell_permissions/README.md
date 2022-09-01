@@ -13,3 +13,5 @@ This scripts is used to print all the groups the current user belongs tox
 ## [3-new_owner](3-new_owner)
 This script is used to change the ownership of a file
 
+## [4-empty](4-empty)
+Script for creating empty file hello
