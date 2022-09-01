@@ -27,3 +27,5 @@ This script is used to give execution permission to everybody
 
 ## [8-James_Bond](8-James_Bond)
 remove all permissions from owner and group owners and grants users all permissions
+## [9-John_Doe](9-John_Doe)
+Sets permission -rwxr-x-wx to hello file
