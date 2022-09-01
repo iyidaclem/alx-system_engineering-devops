@@ -37,3 +37,6 @@ copy file permission to other file
 ## [11-directories_permissions](11-directories_permissions)
 
 adds execute permission to all subdirectorys of current director
+
+## [12-directory_permissions](12-directory_permissions)
+Create directory with permissions
