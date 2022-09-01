@@ -49,3 +49,6 @@ script for change the owner and group of all files and folders in current direct
 
 ## [101-symbolic_link_permissions](101-symbolic_link_permissions)
 Script for changing owner and group owner of a symbolic link
+
+## [102-if_only](102-if_only)
+Script to change ownership from if only it a given user
