@@ -46,3 +46,6 @@ Script for changing the group ownership of a file
 
 ## [100-change_owner_and_group](100-change_owner_and_group)
 script for change the owner and group of all files and folders in current directory
+
+## [101-symbolic_link_permissions](101-symbolic_link_permissions)
+Script for changing owner and group owner of a symbolic link
