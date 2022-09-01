@@ -43,3 +43,6 @@ Create directory with permissions
 
 ## [13-change_group](13-change_group)
 Script for changing the group ownership of a file
+
+## [100-change_owner_and_group](100-change_owner_and_group)
+script for change the owner and group of all files and folders in current directory
