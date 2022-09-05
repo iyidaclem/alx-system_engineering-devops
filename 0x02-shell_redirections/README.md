@@ -1,4 +1,4 @@
-## Shell, I/O Redirections and filters
+## Shell, I2-hellofil I/O Redirections and filters
 
 The aim is to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell**.
 
@@ -10,3 +10,8 @@ A "script that prints “Hello, World”, followed by a new line to the standard
 
 ## [1-confused_smiley](1-confused_smiley)
 Displays a confused smiley "(Ôo)'.
+
+## [2-hellofile](2-hellofile)
+Display the content of the /etc/passwd file.
+
+
