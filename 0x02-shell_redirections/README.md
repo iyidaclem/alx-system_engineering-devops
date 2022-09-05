@@ -20,13 +20,13 @@ Display the content of /etc/passwd and /etc/hosts
 ## [4-lastlines](4-lastlines)
 Display the last 10 lines of /etc/passwd
 
-##[5-firstlines](5-firstlines)
+## [5-firstlines](5-firstlines)
 Display the first 10 lines of /etc/passwd
 
 ## [6-third_line](6-third_line)
 A script that displays the third line of the file iacta.
 
-##[7-file](7-file)
+## [7-file](7-file)
 A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
 ## [8-cwd_state](8-cwd_state)
@@ -70,3 +70,8 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 
 ## [17-hidethisword](17-hidethisword)
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+## [18-letteronly](18-letteronly)
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+include capital letters as well
