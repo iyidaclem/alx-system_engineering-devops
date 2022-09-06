@@ -15,3 +15,6 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 
 ## [4-global_variables](4-global_variables)
 Create a script that lists environment variables.
+
+## [5-local_variables](5-local_variables)
+Create a script that lists all local variables and environment variables, and functions.
