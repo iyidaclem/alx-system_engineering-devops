@@ -1,4 +1,4 @@
-#Networking basics #1
+# Networking basics #1
 ## What is localhost
 ## What is 0.0.0.0
 ## What is the hosts file
