@@ -26,3 +26,4 @@ The following projects were covered in this module
 | [`0x0D-web_stack_debugging_0`](0x0D-web_stack_debugging_0) | Web stack debugging #0 |
 | [`0x0C-web_server`](0x0C-web_server) | 0x0C. Web server |
 | [`0x0F-load_balancer`](0x0F-load_balancer) | load balancer |
+| [`0x0E-web_stack_debugging_1`](0x0E-web_stack_debugging_1) | Web stack debugging #1 |
